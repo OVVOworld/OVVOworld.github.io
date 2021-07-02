@@ -1,13 +1,13 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
-header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+标题：李🐶主人的个人博客
+搜索引擎优化标题：李🐶主人的个人博客
+标题 img  : https://www.bilibili.com/blackboard/activity-vWjoLbWDrw.html
+email: ovvoii@163.com
+description: "李🐶李🐶李🐶李🐶李🐶李🐶"
+keyword: "🍐🐶🍐🐶🍐🐶🍐🐶🍐🐶🍐🐶"
+url: "https://ovvoworld.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/OVVOworld/OVVOworld.github.io"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
